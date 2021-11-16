@@ -1,0 +1,5 @@
+.card .update-img {
+    width: 149px;
+    height: 149px;
+    object-fit: cover;
+}
